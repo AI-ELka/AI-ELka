@@ -61,6 +61,9 @@ I'm an aspiring engineering student with a passion for mathematics, computer sci
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </a> 
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
 </p>
 
 -------
@@ -68,7 +71,7 @@ I'm an aspiring engineering student with a passion for mathematics, computer sci
 Feel free to reach out for collaboration, questions, or just to say hi! Let's learn and grow together! 🌱✨
 <!--
 ## 💰 You can help me by Donating
-<p><a href="https://www.buymeacoffee.com/GeeKboyboss"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="GeeKboyboss" /></a></p><br><br><br>
+<p><a href="https://www.buymeacoffee.com/yourname"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="GeeKboyboss" /></a></p><br><br><br>
 -->
 ----
 <!--
