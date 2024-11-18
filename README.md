@@ -20,9 +20,7 @@ I'm an aspiring engineering student with a passion for mathematics, computer sci
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on a research project titled "Robustness of High-Dimensional Deep Learning Models".
-- 🌱 I'm eager to contribute to cutting-edge solutions and am particularly interested in statistics, machine learning, and solving real-world problems.
-- 👯 I enjoy helping others unlock their potential.
+- 🌱 I'm eager to contribute to cutting-edge solutions and am particularly interested in statistics, optimization, machine learning, operations research, data-driven decision-making and solving real-world problems.
 - 📚 Lifelong learner committed to staying on the forefront of technological advancements.
 
 
@@ -64,6 +62,7 @@ I'm an aspiring engineering student with a passion for mathematics, computer sci
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
 -------
