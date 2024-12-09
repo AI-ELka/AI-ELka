@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hello there! 👋
 
-I'm an aspiring engineering student with a passion for mathematics, computer science, physics and pushing the boundaries of technology. 
+I'm an aspiring researcher with a passion for mathematics, computer science, physics and pushing the boundaries of technology. 
 
 ## 🚀 About Me
 
