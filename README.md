@@ -16,12 +16,16 @@ Here are some ideas to get you started:
 
 ## Hello there! 👋
 
+<-- 
 I'm an aspiring researcher with a passion for mathematics, computer science, physics and pushing the boundaries of technology. 
+-->
 
 ## 🚀 About Me
 
 - 🌱 I'm eager to contribute to cutting-edge solutions and am particularly interested in statistics, optimization, machine learning, operations research, data-driven decision-making and solving real-world problems.
+<--
 - 📚 Lifelong learner committed to staying on the forefront of technological advancements.
+-->
 
 
 ### 💻 Tech Stack:
